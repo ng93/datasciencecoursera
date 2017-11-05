@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is my repository for the coursera course "Data Scientist's toolbox"
+This is my repository for the coursera course specialization on Data Science
